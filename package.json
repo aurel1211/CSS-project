@@ -1,8 +1,12 @@
 {
-  "name": "natours",
+  "name": "starter",
   "version": "1.0.0",
-  "description": "Page for natours",
+  "description": "Css landing page",
   "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  },
   "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
@@ -15,8 +19,6 @@
   "bugs": {
     "url": "https://github.com/aurel1211/CSS-project/issues"
   },
-  "homepage": "https://github.com/aurel1211/CSS-project#readme",
-  "devDependencies": {
-    "node-sass": "^4.11.0"
-  }
+  "homepage": "https://github.com/aurel1211/CSS-project#readme"
 }
+ 
